@@ -1,0 +1,23 @@
+
+
+.text-gray {
+    color: #aaa
+}
+
+img {
+    height: 170px;
+    width: 140px
+}
+
+.aman{
+
+    border: 1px solid black;
+    margin-left: 600px;
+    margin-top: -180px;
+}
+
+.btn {
+    
+    margin-left: -700px;
+    width: 150px;
+}
